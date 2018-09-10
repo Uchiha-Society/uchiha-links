@@ -1,8 +1,14 @@
 # Uchiha Links
 
 ## Courses 
+* General: 
+  * [Platzi](https://platzi.com/)
+  * [Coursera](https://es.coursera.org/)
+  * [edX](https://www.edx.org/es)
+  * [Khan Academy](https://es.khanacademy.org/)
 * Development:
   * [FrontEnd Masters](https://frontendmasters.com/courses/)
+  * [Udacity](https://www.udacity.com/)
 * Design: 
   * [Crehana](https://www.crehana.com/cursos/)
 * Marketing:
@@ -31,3 +37,5 @@
 * Compressor:
   * [TinyPNG](https://tinypng.com/)
   * [Compressor](https://compressor.io/)
+* Photography:
+  * [Unsplash](https://unsplash.com/)

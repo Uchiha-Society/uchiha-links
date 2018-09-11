@@ -1,7 +1,7 @@
 # Uchiha Links
 
-## Courses 
-* General: 
+## Courses
+* General:
   * [Platzi](https://platzi.com/)
   * [Coursera](https://es.coursera.org/)
   * [edX](https://www.edx.org/es)
@@ -10,7 +10,7 @@
   * [FrontEnd Masters](https://frontendmasters.com/courses/)
   * [Udacity](https://www.udacity.com/)
   * [CódigoFacilito](https://codigofacilito.com/)
-* Design: 
+* Design:
   * [Crehana](https://www.crehana.com/cursos/)
 * Marketing:
   * [Google Adwords](https://adwords.google.com/intl/es_mx/home/tools/keyword-planner/)
@@ -25,14 +25,16 @@
   * [Rosie Leizrowice](https://www.rosieleizrowice.com/blog)
 
 ## Design
-* Inspiration: 
+* Inspiration:
   * [Uplabs](https://www.uplabs.com/)
+  * [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/)
+  * [ThenoUnproject - icons](https://thenounproject.com/)
 
 ## Development 
 * Tools 
   * [Babel](https://babeljs.io/)
 
-## Image 
+## Image
 * Compressor:
   * [TinyPNG](https://tinypng.com/)
   * [Compressor](https://compressor.io/)
@@ -58,9 +60,9 @@
   * [MMTuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw)
   * [Academinds](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
   * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
-* Productivity:
+* Productivity [spanish]:
   * [ThinkWasabi](https://www.youtube.com/channel/UCSpGsUDywYonSOJuQnpA-Lw)
-* Sociology:
+* Sociology [Spanish]:
   * [Esquizofrenia Natural](https://www.youtube.com/channel/UCf_MY8uWjWH8gwzFK6vCAmg)
-* Inspiration:
+* Inspiration [Spanish]:
   * [Farid Dieck](https://www.youtube.com/channel/UC83J3suUsNnOacIkqOyKvhw)

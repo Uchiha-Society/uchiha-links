@@ -1,7 +1,7 @@
 # Uchiha Links
 
-## Courses 
-* General: 
+## Courses
+* General:
   * [Platzi](https://platzi.com/)
   * [Coursera](https://es.coursera.org/)
   * [edX](https://www.edx.org/es)
@@ -9,7 +9,7 @@
 * Development:
   * [FrontEnd Masters](https://frontendmasters.com/courses/)
   * [Udacity](https://www.udacity.com/)
-* Design: 
+* Design:
   * [Crehana](https://www.crehana.com/cursos/)
 * Marketing:
   * [Google Adwords](https://adwords.google.com/intl/es_mx/home/tools/keyword-planner/)
@@ -24,8 +24,10 @@
   * [Rosie Leizrowice](https://www.rosieleizrowice.com/blog)
 
 ## Design
-* Inspiration: 
+* Inspiration:
   * [Uplabs](https://www.uplabs.com/)
+  * [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/)
+  * [ThenoUnproject - icons](https://thenounproject.com/)
 
 ## Shopping
 * [Forever21](http://www.forever21.com/mx/)
@@ -33,7 +35,7 @@
 ## Videos
 * [TED Talk](https://www.ted.com/)
 
-## Image 
+## Image
 * Compressor:
   * [TinyPNG](https://tinypng.com/)
   * [Compressor](https://compressor.io/)

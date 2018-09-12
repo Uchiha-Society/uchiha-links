@@ -6,18 +6,24 @@
   * [Coursera](https://es.coursera.org/)
   * [edX](https://www.edx.org/es)
   * [Khan Academy](https://es.khanacademy.org/)
+  * [Udemy](https://www.udemy.com)
+  * [Acámica](https://www.acamica.com/)
+  * [Tuts+](https://tutsplus.com/)
 * Development:
   * [FrontEnd Masters](https://frontendmasters.com/courses/)
   * [Udacity](https://www.udacity.com/)
   * [CódigoFacilito](https://codigofacilito.com/)
   * [Pluralsight](https://www.pluralsight.com/)
-  * [Acámica](https://www.acamica.com/)
+  * [CodeAcademy](https://www.codecademy.com/)
+  * [Egghead](https://egghead.io/)
+  * [EscuelaIT](https://escuela.it/)
 * Design:
   * [Crehana](https://www.crehana.com/cursos/)
 * Marketing:
   * [Google Adwords](https://adwords.google.com/intl/es_mx/home/tools/keyword-planner/)
   * [Sumo: Traffic Tools](https://sumo.com/)
-
+* Languages:
+  * [Duolingo](https://es.duolingo.com/)
 ## Books
 
 * Development:
@@ -37,11 +43,14 @@
 * Development:
   * [Scotch](https://scotch.io/)
   * [DEV](https://dev.to)
+  * [Better Dev Link](https://betterdev.link/)
 * Psychology [Spanish]
   * [La Mente es Maravillosa](https://lamenteesmaravillosa.com/)
   * [Nueces y Neuronas](http://www.nuecesyneuronas.com/)
 * Philosophy [English]
   * [Rosie Leizrowice](https://www.rosieleizrowice.com/blog)
+* Coaching
+  * [30K Coaching](https://www.30kcoaching.com/)
 
 ## Design
 * Inspiration:
@@ -65,6 +74,8 @@
 
 ## Shopping
 * [Forever21](http://www.forever21.com/mx/)
+* [RomWe](https://es.romwe.com/)
+* [H&M](https://www.hm.com/)
 
 * Productivity:
   * [Bullet Journal](https://bulletjournal.com/)

@@ -10,14 +10,33 @@
   * [FrontEnd Masters](https://frontendmasters.com/courses/)
   * [Udacity](https://www.udacity.com/)
   * [CódigoFacilito](https://codigofacilito.com/)
+  * [Pluralsight](https://www.pluralsight.com/)
+  * [Acámica](https://www.acamica.com/)
 * Design:
   * [Crehana](https://www.crehana.com/cursos/)
 * Marketing:
   * [Google Adwords](https://adwords.google.com/intl/es_mx/home/tools/keyword-planner/)
   * [Sumo: Traffic Tools](https://sumo.com/)
 
+## Books
+
+* Development:
+  * [Packt](https://www.packtpub.com/)
+
+## Challenges
+* Development:
+  * [CodeSignal](https://codesignal.com/)
+  * [CodeWars](https://www.codewars.com/)
+  * [Kaggle](https://www.kaggle.com/)
+  * [Codier](https://codier.io/)
+
 ## Blog
 * [Medium](https://medium.com/)
+* Design:
+  * [Smashingmagazine](https://www.smashingmagazine.com/)
+* Development:
+  * [Scotch](https://scotch.io/)
+  * [DEV](https://dev.to)
 * Psychology [Spanish]
   * [La Mente es Maravillosa](https://lamenteesmaravillosa.com/)
   * [Nueces y Neuronas](http://www.nuecesyneuronas.com/)
@@ -30,8 +49,8 @@
   * [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/)
   * [ThenoUnproject - icons](https://thenounproject.com/)
 
-## Development 
-* Tools 
+## Development
+* Tools
   * [Babel](https://babeljs.io/)
 
 ## Image
@@ -47,10 +66,13 @@
 ## Shopping
 * [Forever21](http://www.forever21.com/mx/)
 
+* Productivity:
+  * [Bullet Journal](https://bulletjournal.com/)
+
 ## Videos
 * [TED Talk](https://www.ted.com/)
 
-## YouTube 
+## YouTube
 * Programming:
   * [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
   * [CodingTech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)

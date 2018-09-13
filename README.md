@@ -24,8 +24,8 @@
   * [Sumo: Traffic Tools](https://sumo.com/)
 * Languages:
   * [Duolingo](https://es.duolingo.com/)
-## Books
 
+## Books
 * Development:
   * [Packt](https://www.packtpub.com/)
 
@@ -44,6 +44,7 @@
   * [Scotch](https://scotch.io/)
   * [DEV](https://dev.to)
   * [Better Dev Link](https://betterdev.link/)
+  * [Hacerknoon](https://hackernoon.com/)
 * Psychology [Spanish]
   * [La Mente es Maravillosa](https://lamenteesmaravillosa.com/)
   * [Nueces y Neuronas](http://www.nuecesyneuronas.com/)
@@ -68,6 +69,14 @@
   * [Compressor](https://compressor.io/)
 * Photography:
   * [Unsplash](https://unsplash.com/)
+
+## News 
+* [Hacker News](https://news.ycombinator.com/news)
+* [AlternativeTO](https://alternativeto.net/)
+* [Hacker News Digest](https://hndigest.com/)
+* [Product Hunt](https://www.producthunt.com/)
+* [Recode](https://www.recode.net/)
+* [The Verge](https://www.theverge.com/)
 
 ## Templates
 * [ThemeForest](https://themeforest.net/)

@@ -78,15 +78,22 @@
 * [Recode](https://www.recode.net/)
 * [The Verge](https://www.theverge.com/)
 
-## Templates
-* [ThemeForest](https://themeforest.net/)
+## Sports
+* [ESPN](http://www.espn.com.mx/)
+* [Yahoo! Sports](https://sports.yahoo.com/)
+* [CBSSports](https://www.cbssports.com/)
+* [Sports Illustrated](https://www.si.com/)
+* [Fox Sports](https://www.foxsports.com/)
 
 ## Shopping
 * [Forever21](http://www.forever21.com/mx/)
 * [RomWe](https://es.romwe.com/)
 * [H&M](https://www.hm.com/)
 
-* Productivity:
+## Templates
+* [ThemeForest](https://themeforest.net/)
+
+## Productivity:
   * [Bullet Journal](https://bulletjournal.com/)
 
 ## Videos

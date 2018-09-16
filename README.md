@@ -73,6 +73,8 @@
 ## Movies 
 * [Netflix](https://www.netflix.com/browse)
 * [Gnula](http://gnula.nu/)
+* [Amazon Prime Videos](https://www.primevideo.com/)
+* [Popcornflix](https://www.popcornflix.com/pages/discover/d/movies)
 
 ## News 
 * [Hacker News](https://news.ycombinator.com/news)

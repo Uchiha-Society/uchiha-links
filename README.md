@@ -70,6 +70,10 @@
 * Photography:
   * [Unsplash](https://unsplash.com/)
 
+## Movies 
+* [Netflix](https://www.netflix.com/browse)
+* [Gnula](http://gnula.nu/)
+
 ## News 
 * [Hacker News](https://news.ycombinator.com/news)
 * [AlternativeTO](https://alternativeto.net/)
@@ -77,6 +81,11 @@
 * [Product Hunt](https://www.producthunt.com/)
 * [Recode](https://www.recode.net/)
 * [The Verge](https://www.theverge.com/)
+
+## Podcast 
+* [Ivoox](https://www.ivoox.com/)
+* [PlayerFM](https://player.fm/)
+* [SoundCloud](https://soundcloud.com/)
 
 ## Sports
 * [ESPN](http://www.espn.com.mx/)

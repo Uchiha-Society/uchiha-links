@@ -36,7 +36,7 @@
 * [Manga hispano](https://mangahis.com/)
 * [Tu manga online](https://tumangaonline.me/)
 
-# Anime
+## Anime
 
 * Simultcast:
   * [Crunchyroll](https://www.crunchyroll.com/)

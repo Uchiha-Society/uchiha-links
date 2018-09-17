@@ -29,7 +29,7 @@
 * Development:
   * [Packt](https://www.packtpub.com/)
 
-## Manga
+## Manga
 
 * [Manga Rock](https://mangarock.com/)
 * [Manga Reader](https://www.mangareader.net/)

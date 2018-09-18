@@ -21,13 +21,19 @@
   * [Crehana](https://www.crehana.com/cursos/)
 * Marketing:
   * [Google Adwords](https://adwords.google.com/intl/es_mx/home/tools/keyword-planner/)
+  * [Google Analytics](https://analytics.google.com/analytics/web/)
   * [Sumo: Traffic Tools](https://sumo.com/)
 * Languages:
   * [Duolingo](https://es.duolingo.com/)
+  * [BrainLang](https://www.brainlang.com/)
+  * [Babbel](https://babbel.com/)
 
 ## Books
 * Development:
   * [Packt](https://www.packtpub.com/)
+  * [LeanPub](https://leanpub.com/)
+* AudioBooks:
+  * [Audible](https://www.audible.com/)
 
 ## Manga
 
@@ -57,7 +63,11 @@
   * [Codier](https://codier.io/)
 
 ## Blog
-* [Medium](https://medium.com/)
+
+* Create content:
+  * [Medium](https://medium.com/)
+  * [Ghost](https://ghost.org/)
+  * [Wordpress](https://wordpress.com/)
 * Design:
   * [Smashingmagazine](https://www.smashingmagazine.com/)
 * Development:
@@ -82,6 +92,13 @@
 ## Development
 * Tools
   * [Babel](https://babeljs.io/)
+* Code editors
+  * [Atom](https://atom.io/)
+  * [Sublime Text](https://www.sublimetext.com/)
+  * [Visual Studio Code](https://code.visualstudio.com/)
+  * [Vim](https://www.vim.org/)
+  * [Brackets](http://brackets.io/)
+  * [CoffeeCup](https://www.coffeecup.com/)
 
 ## Image
 * Compressor:

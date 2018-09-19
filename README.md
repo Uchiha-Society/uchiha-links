@@ -63,6 +63,17 @@
 * Tools
   * [Babel](https://babeljs.io/)
 
+## Games
+* PC 
+  * Platform:
+    * [Steam](https://store.steampowered.com/?l=spanish)
+  * Moba:
+    * [League of Legends](https://play.euw.leagueoflegends.com/es_ES)
+    * [Dota2](http://es.dota2.com/)
+    * [Heroes of the Storm](https://heroesofthestorm.com/es-es/)
+  * [World of Warcraft](https://worldofwarcraft.com/es-es/)
+  * [Fornite](https://www.epicgames.com/fortnite/es-ES/home)
+
 ## Image
 * Compressor:
   * [TinyPNG](https://tinypng.com/)

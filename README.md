@@ -99,6 +99,12 @@
   * [Vim](https://www.vim.org/)
   * [Brackets](http://brackets.io/)
   * [CoffeeCup](https://www.coffeecup.com/)
+* Version Control System:
+  * [Bitbucket](https://bitbucket.org/product)
+  * [Github](https://github.com/)
+  * [Gitlab](https://about.gitlab.com/)
+  * [SourceForge](https://sourceforge.net/)
+  * [Manuscript ](https://manuscript.com/features/version-control)
 
 ## Games
 * PC 
@@ -141,14 +147,6 @@
 * [Spotify](https://support.spotify.com/bo/using_spotify/features/podcasts/)
 * [Spreaker](https://www.spreaker.com/)
 * [CastBox](https://castbox.fm/)
-
-## Programming
-* Version Control System:
-  * [Bitbucket](https://bitbucket.org/product)
-  * [Github](https://github.com/)
-  * [Gitlab](https://about.gitlab.com/)
-  * [SourceForge](https://sourceforge.net/)
-  * [Manuscript ](https://manuscript.com/features/version-control)
 
 ## Sports
 * [ESPN](http://www.espn.com.mx/)

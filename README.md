@@ -43,7 +43,6 @@
 * [Manga MX](https://manga-mx.com/)
 
 ## Anime
-
 * Simultcast:
   * [Crunchyroll](https://www.crunchyroll.com/)
   * [AnimeLab](https://www.animelab.com/)
@@ -63,7 +62,6 @@
   * [Codier](https://codier.io/)
 
 ## Blog
-
 * Create content:
   * [Medium](https://medium.com/)
   * [Ghost](https://ghost.org/)
@@ -82,6 +80,12 @@
   * [Rosie Leizrowice](https://www.rosieleizrowice.com/blog)
 * Coaching
   * [30K Coaching](https://www.30kcoaching.com/)
+* All content you need (xD)
+  * [Reddit](https://www.reddit.com/)
+
+## Forum
+* Development:
+  * [Stackoverflow](https://stackoverflow.com/)
 
 ## Design
 * Inspiration:
@@ -105,9 +109,14 @@
   * [Gitlab](https://about.gitlab.com/)
   * [SourceForge](https://sourceforge.net/)
   * [Manuscript ](https://manuscript.com/features/version-control)
+* Shells
+  * [iTerm](https://www.iterm2.com/)
+  * [Xterm](https://xtermjs.org/)
+  * [Oh my ZSH](https://ohmyz.sh/)
+  * [Cygwin](https://www.cygwin.com/)
 
 ## Games
-* PC 
+* PC
   * Platform:
     * [Steam](https://store.steampowered.com/?l=spanish)
   * Moba:
@@ -147,6 +156,7 @@
 * [Spotify](https://support.spotify.com/bo/using_spotify/features/podcasts/)
 * [Spreaker](https://www.spreaker.com/)
 * [CastBox](https://castbox.fm/)
+* [Spec](https://spec.fm/)
 
 ## Sports
 * [ESPN](http://www.espn.com.mx/)
@@ -165,6 +175,9 @@
 
 ## Productivity:
   * [Bullet Journal](https://bulletjournal.com/)
+  * [Trello](https://trello.com/)
+  * [Asana](https://asana.com/)
+  * [Pomodoro Timer](https://tomato-timer.com/)
 
 ## Videos
 * [TED Talk](https://www.ted.com/)

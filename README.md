@@ -36,11 +36,11 @@
   * [Audible](https://www.audible.com/)
 
 ## Manga
-
 * [Manga Rock](https://mangarock.com/)
 * [Manga Reader](https://www.mangareader.net/)
 * [Manga hispano](https://mangahis.com/)
 * [Tu manga online](https://tumangaonline.me/)
+* [Manga MX](https://manga-mx.com/)
 
 ## Anime
 
@@ -141,6 +141,14 @@
 * [Spotify](https://support.spotify.com/bo/using_spotify/features/podcasts/)
 * [Spreaker](https://www.spreaker.com/)
 * [CastBox](https://castbox.fm/)
+
+## Programming
+* Version Control System:
+  * [Bitbucket](https://bitbucket.org/product)
+  * [Github](https://github.com/)
+  * [Gitlab](https://about.gitlab.com/)
+  * [SourceForge](https://sourceforge.net/)
+  * [Manuscript ](https://manuscript.com/features/version-control)
 
 ## Sports
 * [ESPN](http://www.espn.com.mx/)

@@ -34,7 +34,8 @@
   * [LeanPub](https://leanpub.com/)
 * AudioBooks:
   * [Audible](https://www.audible.com/)
-
+* Magazines:
+  * [Magzter](https://www.magzter.com/)
 ## Manga
 * [Manga Rock](https://mangarock.com/)
 * [Manga Reader](https://www.mangareader.net/)
@@ -114,6 +115,9 @@
   * [Xterm](https://xtermjs.org/)
   * [Oh my ZSH](https://ohmyz.sh/)
   * [Cygwin](https://www.cygwin.com/)
+* Domain Name
+  * [NameMesh](https://www.namemesh.com/)
+  * [Naminum](http://www.naminum.com/)
 
 ## Games
 * PC
@@ -132,6 +136,16 @@
   * [Compressor](https://compressor.io/)
 * Photography:
   * [Unsplash](https://unsplash.com/)
+* Inspiration:
+  * [Mira Nedyalkova](http://www.miranedyalkova.com/)
+
+## Management
+* OKR
+  * [7Geese](https://7geese.com/)
+
+## Marketplace & Jobs
+* [Fiverr](https://www.fiverr.com/)
+* [Indeed](https://www.indeed.com)
 
 ## Movies
 * [Netflix](https://www.netflix.com/browse)
@@ -181,6 +195,8 @@
 
 ## Videos
 * [TED Talk](https://www.ted.com/)
+* Documental
+  * [PlanetaDocumenta](https://www.planetadocumental.com/)
 
 ## YouTube
 * Programming:

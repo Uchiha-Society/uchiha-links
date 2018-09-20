@@ -121,7 +121,7 @@
   * [NameMesh](https://www.namemesh.com/)
   * [Naminum](http://www.naminum.com/)
 
-## Damains
+## Domains
   * Buy / Management:
     * [DonDominio](https://www.dondominio.com/)
     * [GoDaddy](https://godaddy.com/)
@@ -129,7 +129,7 @@
   * Buy / Sell:
     * [Sedo](https://sedo.com/)
 
-## Hosting / VPS
+## Hosting / VPS
   * [DigitalOcean](https://www.digitalocean.com)
   * [Vultr](https://www.vultr.com/)
   * [FastCommet](https://www.fastcomet.com/)

@@ -87,12 +87,14 @@
 ## Forum
 * Development:
   * [Stackoverflow](https://stackoverflow.com/)
+  * [Apple](https://developer.apple.com/devforums/)
 
 ## Design
 * Inspiration:
   * [Uplabs](https://www.uplabs.com/)
   * [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/)
   * [ThenoUnproject - icons](https://thenounproject.com/)
+  * [Pinterest](https://www.pinterest.com/)
 
 ## Development
 * Tools
@@ -118,6 +120,19 @@
 * Domain Name
   * [NameMesh](https://www.namemesh.com/)
   * [Naminum](http://www.naminum.com/)
+
+## Damains
+  * Buy / Management:
+    * [DonDominio](https://www.dondominio.com/)
+    * [GoDaddy](https://godaddy.com/)
+    * [Name](https://name.com/)
+  * Buy / Sell:
+    * [Sedo](https://sedo.com/)
+
+## Hosting / VPS
+  * [DigitalOcean](https://www.digitalocean.com)
+  * [Vultr](https://www.vultr.com/)
+  * [FastCommet](https://www.fastcomet.com/)
 
 ## Games
 * PC

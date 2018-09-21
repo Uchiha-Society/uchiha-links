@@ -144,6 +144,13 @@
     * [Heroes of the Storm](https://heroesofthestorm.com/es-es/)
   * [World of Warcraft](https://worldofwarcraft.com/es-es/)
   * [Fornite](https://www.epicgames.com/fortnite/es-ES/home)
+* Nintendo
+  * RPG:
+    * [Octopath Traveler](https://octopathtraveler.nintendo.com/)
+  * Sports:
+    * [Mario Tennis Aces](https://www.nintendo.com/games/detail/mario-tennis-aces-switch)
+  * Indie
+    * [Hollow knight](https://hollowknight.com/)
 
 ## Image
 * Compressor:
@@ -176,6 +183,7 @@
 * [Product Hunt](https://www.producthunt.com/)
 * [Recode](https://www.recode.net/)
 * [The Verge](https://www.theverge.com/)
+* [HiperTextual](https://hipertextual.com/)
 
 ## Podcast
 * [Ivoox](https://www.ivoox.com/)

@@ -36,6 +36,8 @@
   * [Audible](https://www.audible.com/)
 * Magazines:
   * [Magzter](https://www.magzter.com/)
+* Stories:
+  * [Mitos, Monstruos y Leyendas](http://mitosmonstruosyleyendas.blogspot.com/)
 ## Manga
 * [Manga Rock](https://mangarock.com/)
 * [Manga Reader](https://www.mangareader.net/)
@@ -215,6 +217,10 @@
   * [Trello](https://trello.com/)
   * [Asana](https://asana.com/)
   * [Pomodoro Timer](https://tomato-timer.com/)
+
+## User Experience [UX]
+* [Mockflow](https://mockflow.com/)
+* 
 
 ## Videos
 * [TED Talk](https://www.ted.com/)

@@ -38,6 +38,9 @@
   * [Magzter](https://www.magzter.com/)
 * Stories:
   * [Mitos, Monstruos y Leyendas](http://mitosmonstruosyleyendas.blogspot.com/)
+* Social: 
+  * [LitClub](http://www.litlovers.com/)
+  * [GoodReads](https://www.goodreads.com/)
 ## Manga
 * [Manga Rock](https://mangarock.com/)
 * [Manga Reader](https://www.mangareader.net/)
@@ -211,6 +214,8 @@
 
 ## Templates
 * [ThemeForest](https://themeforest.net/)
+* Mailing:
+  * [Really Good Emails](https://reallygoodemails.com/)
 
 ## Productivity:
   * [Bullet Journal](https://bulletjournal.com/)
@@ -220,7 +225,13 @@
 
 ## User Experience [UX]
 * [Mockflow](https://mockflow.com/)
-* 
+* [JustInMind](https://www.justinmind.com)
+* [WireframeCC](https://wireframe.cc/)
+* [AdobeXD](https://www.adobe.com/uk/products/xd.html?red=a)
+* [UXPin](https://www.uxpin.com/)
+* [Balsamiq](https://balsamiq.com/products/)
+* [Axure](https://www.axure.com/)
+
 
 ## Videos
 * [TED Talk](https://www.ted.com/)

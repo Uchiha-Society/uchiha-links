@@ -239,6 +239,10 @@
   * [PlanetaDocumenta](https://www.planetadocumental.com/)
 
 ## YouTube
+* Cartoons:
+  * [AnimatedCartoons](https://www.youtube.com/channel/UCS4tpACBbG6OPGdOpQdtMxA)
+* Horror:
+  * [CryptTV](https://www.youtube.com/channel/UCpJ6Dn01AqjvFVN2EiK72Ag)
 * Programming:
   * [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
   * [CodingTech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
@@ -248,8 +252,12 @@
   * [MMTuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw)
   * [Academinds](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
   * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+  * [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg/)
+* Humor: 
+  * [TeLoResumoAsíNomás](https://www.youtube.com/channel/UCw7Bz6EHxlnOoBUBlJZCWCw)
 * Productivity [spanish]:
   * [ThinkWasabi](https://www.youtube.com/channel/UCSpGsUDywYonSOJuQnpA-Lw)
+  * [JohnFish](https://www.youtube.com/channel/UC5Gmg-VtFmnP8qLq8V7Pvtg)
 * Sociology [Spanish]:
   * [Esquizofrenia Natural](https://www.youtube.com/channel/UCf_MY8uWjWH8gwzFK6vCAmg)
 * Inspiration [Spanish]:

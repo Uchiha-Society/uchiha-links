@@ -130,7 +130,6 @@
   * [NameMesh](https://www.namemesh.com/)
   * [Naminum](http://www.naminum.com/)
 
-
 ## Robotic / Electronics
 * [Arduino](https://www.arduino.cc/)
 * [RaspberryPi](https://www.raspberrypi.org/)
@@ -143,6 +142,10 @@
 
 ## DIY
   * [iFixit guides](https://www.ifixit.com/)
+  * [Instructables](https://www.instructables.com/)
+  * [Do it yourself](https://www.doityourself.com/)
+  * [Makezine](https://makezine.com/)
+  * [eHow](https://www.ehow.com/)
 
 ## Domains
   * Buy / Management:

@@ -7,6 +7,10 @@
   * [edX](https://www.edx.org/es)
   * [Khan Academy](https://es.khanacademy.org/)
   * [Udemy](https://www.udemy.com)
+    * [The Complete JavaScript Course](https://www.udemy.com/the-complete-javascript-course/)
+    * [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp)
+    * [JavaScript: Understanding the weird parts](https://www.udemy.com/understand-javascript/)
+    * [JavaScript: Algorithms and Data Structures](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/)
   * [Acámica](https://www.acamica.com/)
   * [Tuts+](https://tutsplus.com/)
 * Development:

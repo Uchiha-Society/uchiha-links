@@ -42,7 +42,7 @@
   * [Magzter](https://www.magzter.com/)
 * Stories:
   * [Mitos, Monstruos y Leyendas](http://mitosmonstruosyleyendas.blogspot.com/)
-* Social: 
+* Social:
   * [LitClub](http://www.litlovers.com/)
   * [GoodReads](https://www.goodreads.com/)
 ## Manga
@@ -129,6 +129,20 @@
 * Domain Name
   * [NameMesh](https://www.namemesh.com/)
   * [Naminum](http://www.naminum.com/)
+
+
+## Robotic / Electronics
+* [Arduino](https://www.arduino.cc/)
+* [RaspberryPi](https://www.raspberrypi.org/)
+* [Tessel](https://tessel.io/)
+  * Shopping resources:
+    * [Seeedstudio](https://www.seeedstudio.com)
+    * [AdaFruit](https://www.adafruit.com/categories)
+  * Learn:
+    * [AdaFruit tutorials](https://learn.adafruit.com/)
+
+## DIY
+  * [iFixit guides](https://www.ifixit.com/)
 
 ## Domains
   * Buy / Management:
@@ -257,7 +271,7 @@
   * [Academinds](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
   * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
   * [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg/)
-* Humor: 
+* Humor:
   * [TeLoResumoAsíNomás](https://www.youtube.com/channel/UCw7Bz6EHxlnOoBUBlJZCWCw)
 * Productivity [spanish]:
   * [ThinkWasabi](https://www.youtube.com/channel/UCSpGsUDywYonSOJuQnpA-Lw)

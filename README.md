@@ -227,6 +227,15 @@
 * [CastBox](https://castbox.fm/)
 * [Spec](https://spec.fm/)
 
+## Science
+* [Science Toys](http://scitoys.com/)
+* [Bill Nye](https://billnye.com/)
+* [Science News for Students](https://www.sciencenewsforstudents.org/)
+* [BrainPOP](https://www.brainpop.com/)
+* [Exploratorium](https://www.exploratorium.edu/)
+* [How stuff works](https://science.howstuffworks.com/)
+* [Teachers try Science](http://www.teacherstryscience.org/)
+
 ## Social Network
 * [Facebook](https://www.facebook.com/)
 * [Instagram](https://www.instagram.com/)

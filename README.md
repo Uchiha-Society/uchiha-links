@@ -45,6 +45,12 @@
 * Social:
   * [LitClub](http://www.litlovers.com/)
   * [GoodReads](https://www.goodreads.com/)
+* Store:
+  * [Gandhi México](https://www.gandhi.com.mx/)
+  * [Gonvill México](https://www.gonvill.com.mx/)
+  * [Book México](http://www.book.com.mx/)
+  * [La casa del libro](https://www.casadellibro.com/)
+
 ## Manga
 * [Manga Rock](https://mangarock.com/)
 * [Manga Reader](https://www.mangareader.net/)
@@ -230,7 +236,6 @@
 * [VK](https://vk.com/)
 * Mobile:
   * [Bottled](https://play.google.com/store/apps/details?id=com.bottledapp.bottled)
-
 
 ## Sports
 * [ESPN](http://www.espn.com.mx/)

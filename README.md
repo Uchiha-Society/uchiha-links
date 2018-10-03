@@ -99,6 +99,11 @@
 * All content you need (xD)
   * [Reddit](https://www.reddit.com/)
 
+## Events 
+* [Eventbrite](https://www.eventbrite.com/)
+* [Meetup](http://meetup.com/)
+* [Ticketea](https://www.ticketea.com/)
+
 ## Forum
 * Development:
   * [Stackoverflow](https://stackoverflow.com/)

@@ -25,6 +25,19 @@
 * Languages:
   * [Duolingo](https://es.duolingo.com/)
 
+
+## VR
+* In browser
+  * [WebXR](https://www.w3.org/TR/webxr/)
+  * [Google VR](https://developers.google.com/vr/develop/web/vrview-web)
+* JavaScript libraries
+  * [AR.js](https://ar-js-org.github.io/AR.js-Docs/)
+  * [Three.js](https://threejs.org/docs/#manual/en/introduction/How-to-create-VR-content)
+* React
+  * [ReactVR](https://facebook.github.io/react-360/)
+* VueJS
+  * [Vue-VR](https://github.com/mudin/vue-vr)
+
 ## Books
 * Development:
   * [Packt](https://www.packtpub.com/)
@@ -151,3 +164,4 @@
   * [Esquizofrenia Natural](https://www.youtube.com/channel/UCf_MY8uWjWH8gwzFK6vCAmg)
 * Inspiration [Spanish]:
   * [Farid Dieck](https://www.youtube.com/channel/UC83J3suUsNnOacIkqOyKvhw)
+

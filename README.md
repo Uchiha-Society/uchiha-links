@@ -45,6 +45,15 @@
 * VueJS
   * [Vue-VR](https://github.com/mudin/vue-vr)
 
+
+## Search hackathon events
+ * [DevPost](https://devpost.com/)
+ * [HackClub](https://hackathons.hackclub.com/)
+ * [Internacional Hackathon](https://international-hackathon.com/)
+ * [Takai Network](https://taikai.network/en)
+ * [Hackathon Spain](https://hackathonspain.com/)
+
+
 ## Books
 * Development:
   * [Packt](https://www.packtpub.com/)
